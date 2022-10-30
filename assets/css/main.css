@@ -2281,9 +2281,7 @@ input, select, textarea {
 				padding-right: 0;
 			}
 
-				.panel > .intro.joined + .inner {
-					padding-left: 2.625rem;
-				}
+			
 
 		.panel > .inner {
 			padding: 3.5rem 3.5rem 2rem 3.5rem ;
