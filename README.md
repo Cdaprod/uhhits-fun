@@ -1,1 +1,1 @@
-# David-s-Website-using-Ethereal-HTML5UP-Template
+""uhhits-fun"" is a repo that I use to keep progress of my frontend development progression, and to better understand github and git. 
